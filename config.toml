@@ -1,4 +1,4 @@
-
+baseURL ="https://gsabaportfolio.netlify.app/"
 title = "Giacomo Sabatini - Artist Portfolio"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
