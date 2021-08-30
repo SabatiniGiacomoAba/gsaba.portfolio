@@ -9,7 +9,7 @@ skills: [ "Blender", "Maya", "Unity3D", "Python", "Linux", "Adobe Suite", "Krita
 
 Laureato nel corso di **Visual an Motion Design** dell'Accademia di Belle Arti di Urbino con votazione di 110 cum laude. Realizzato il cortometraggio animato "The Fear In Your Eyes" selezionato alla 57a edizione della Mostra Internazione del Nuovo Cinema di Pesaro e all'Animart Festival 2021. Esperienze pregresse con clienti e gruppi di lavoro, dimostrando resistenza allo stress, minuzia nel dettaglio e capacità di problem solving.
 
- [Curriculum Vitae - Italiano](/downloadables/GiacomoSabatini-CV.pdf)
+ [Curriculum Vitae - Italiano](/downloadables/GiacomoSabatini-CV-300821.pdf)
 
 #### Education
 
