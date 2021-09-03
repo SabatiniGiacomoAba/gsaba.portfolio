@@ -1,6 +1,6 @@
 ---
 title: "Furniture"
-draft: true
+draft: false
 image: "/imgs/Mobile/Mobile-RenderDefinitivo.png"
 root: "/static/"
 showonlyimage: false
