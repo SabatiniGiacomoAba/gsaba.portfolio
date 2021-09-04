@@ -1,7 +1,7 @@
 ---
 title: "Alexander Shatohin, Naga Snake - Modeling"
 draft: false
-image: "/imgs/Naga-Snake-DemoRender.png"
+image: "/imgs/NagaSnakePics/NagaSnake_Render.002.png"
 root: "/static/"
 showonlyimage: false
 years: ["2019"]
